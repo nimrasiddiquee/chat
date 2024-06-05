@@ -1,0 +1,253 @@
+.icons{
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}
+h3{
+    font-size: 25px;
+    font-weight: bold;
+}
+.fa-ellipsis-vertical{
+    padding-left: 75px;
+}
+.fa-ellipsis{
+    padding-left: 6px;
+}
+.fa-pen{
+    font-size: 13px;
+    padding-left: 6px;}
+
+.main{
+   
+    width: 250px;
+   
+    display: flex;
+    padding:10px ;
+    align-items: center;
+    
+}
+.main-1{
+    padding-top: 8px;
+    margin-right: 20px;
+
+
+}
+.girl{
+    width:40px;
+    height:40px;
+    border-radius:50px;
+}
+.main-2{
+    padding-left: 5px;
+}
+h4{
+    line-height: 2px}
+    .all-people{
+        display: flex;
+
+    }
+    .chating{
+        width:250px;
+        border:1px solid black;
+        margin-top: 6px;
+        border: hidden;
+    }
+    .second-work{
+        
+        display: flex;
+        margin-top: 10px;
+
+    }
+    .work{
+        
+    margin-top: 5px;
+        padding-top: 5px;
+        padding-left: 10px;
+        width:180px;
+        height:20px;
+        border: 1px solid black;
+        border-radius: 30px;
+        margin-left: 100px;
+        background-color: azure;
+
+    }
+    .boy{
+        margin-top: 3px;
+        width:30px;
+        height:30px;
+        border-radius:50px;
+    }
+    
+.work-one{
+    display: flex;
+    margin-top: 10px;
+}
+
+.work-two{
+  
+  
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    width:120px;
+    height:20px;
+    border: 1px solid black;
+    border-radius: 30px;
+   
+    background-color:aqua;
+
+}
+.work-team{
+    display: flex;
+    margin-top: 10px;
+}
+.work-three{
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    width:90px;
+    height:20px;
+    border: 1px solid black;
+    border-radius: 30px;
+    margin-left: 100px;
+    background-color: azure;
+
+}
+.work-lead{
+    display: flex;
+    margin-top: 10px;
+}
+.work-four{
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    width:190px;
+    height:20px;
+    border: 1px solid black;
+    border-radius: 30px;
+   background-color:aqua;
+}
+.work-leam{
+    display: flex;
+    margin-top: 10px;
+}
+.work-five{
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    width:90px;
+    height:20px;
+    border: 1px solid black;
+    border-radius: 30px;
+    margin-left: 100px;
+    background-color: azure;
+}
+.work-leader{
+    display: flex;
+    margin-top: 10px;
+}
+.work-six{
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    width:180px;
+    height:20px;
+    border: 1px solid black;
+    border-radius: 30px;
+   background-color:aqua;
+}
+.work-girl{
+    display: flex;
+    margin-top: 10px;
+}
+.work-seven{
+    padding-top: 7px;
+    padding-left: 6px;
+    width:150px;
+    height:30px;
+    border: 1px solid black;
+    border-radius: 30px;
+    margin-left: 100px;
+    background-color: azure;
+}
+.work-boy{
+    display: flex;
+    margin-top: 10px;
+}
+.work-eight{
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    width:180px;
+    height:20px;
+    border: 1px solid black;
+    border-radius: 30px;
+   background-color:aqua;
+}
+.profile{
+    width:390px;
+    border: 1px solid black;
+    align-items: center;
+    margin-left: 30px;
+    border:hidden;
+
+}
+.elon{
+    width:50px;
+    border-radius:50px ;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+h5{
+    margin-left: 100px;
+}
+p{
+    margin-left: 5px;
+}
+.small-one{
+    display: flex;
+    margin-left: 10px;
+    padding: 10px;
+
+
+}
+.fa-facebook{
+    border: 1px solid black;
+    border-radius: 50px;
+    padding: 5px;
+    color: #fff;
+    background-color: skyblue;
+}
+.fa-facebook-messenger{
+    border: 1px solid black;
+    border-radius: 50px;
+    padding: 5px;
+    color: #fff;
+    background-color: skyblue;
+}
+    .fa-laptop{
+        border: 1px solid black;
+    border-radius: 50px;
+    padding: 5px;
+    color: #fff;
+    background-color: skyblue;
+    }
+.fa-laptop-code{
+    border: 1px solid black;
+    border-radius: 50px;
+    padding: 5px;
+    color: #fff;
+    background-color: skyblue;
+}
+.inform{
+    width:250px;
+    height:100px;
+    border: 1px solid black;
+    margin-left: 15px;
+    border-color:grey;
+
+
+}
+h5{
+    margin-right: 100px;
+}
